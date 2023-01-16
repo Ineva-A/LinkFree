@@ -1,0 +1,25 @@
+{
+  "name": "Regina Ganser",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "WebDev, DevRel. Self learner, beginner in programming",
+  "avatar": "https://github.com/Ineva-A.png",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/ineva_yt",
+      "icon": "FaTwitter"
+    },
+    "links": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/regina-ganser-551b26244/",
+      "icon": "FaLinkedin"
+    },
+     {
+      "name": "GitHub",
+      "url": "https://github.com/Ineva-A",
+      "icon": "FaGithub"
+    },
+  ]
+}
